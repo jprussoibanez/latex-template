@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+make compile
+git add src/main.pdf
